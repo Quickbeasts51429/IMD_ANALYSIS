@@ -52,3 +52,8 @@ The trend has been plotted decadewise. A clearer trend is obserrved upon plottin
 ---
 <br>
 All the data used in the analysis are **binary_datasets_(.grd)files**
+<br>
+---
+## REFERENCES
+[1] Pai D.S., Latha Sridhar, Rajeevan M., Sreejith O.P., Satbhai N.S. and Mukhopadhyay B., 2014: [Development of a new high spatial resolution (0.25° X 0.25°)Long period (1901-2010) daily gridded rainfall data set over India and its comparison with existing data sets over the region](https://www.imdpune.gov.in/Clim_Pred_LRF_New/ref_paper_MAUSAM.pdf); MAUSAM, 65, 1(January 2014), pp1-18.
+[2] A. K. Srivastava, M. Rajeevan, S. R. Kshirsagar : [Development of High Resolution Daily Gridded Temperature Data Set (1969-2005) for the Indian Region](A. K. Srivastava, M. Rajeevan, S. R. Kshirsagar : Development of High Resolution Daily Gridded Temperature Data Set (1969-2005) for the Indian Region. ATMOSPHERIC SCIENCE LETTERS Atmos. Sci. Let. (2009) DOI: 10.1002/asl.232.). ATMOSPHERIC SCIENCE LETTERS Atmos. Sci. Let. (2009) DOI: 10.1002/asl.232.
